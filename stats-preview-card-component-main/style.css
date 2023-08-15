@@ -118,12 +118,6 @@ span {
     margin-top: 1rem;
 }
 
-.stat-types {
-    text-align: center;
-    margin-right: 90px;
-    margin-top: 4px;
-}
-
 .left-box {
     width: 400px;
     height: 470px;
@@ -179,8 +173,9 @@ span {
     left: -3rem;
 }
 
-    .stat-types p{
+    .stat-types {
         position: relative;
+        text-align: center;
         top: -7rem;
         left: 1rem;
         opacity: 0.75;
