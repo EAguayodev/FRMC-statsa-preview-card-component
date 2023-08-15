@@ -137,6 +137,31 @@ h3 {
     margin: -3.8rem 0 0 3rem;
 }
 
+.left-box h1{
+    font-weight: 700;
+    position: relative;
+    text-align: center;
+    top: 2rem;
+    left: 4rem;
+    font-size: 28px;
+    width: 264px;
+    line-height: 32px;
+}
+
+.left-box p{
+    color: var(--slightly-transparent-white-main-paragraph);
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: 3rem;
+    left: 6rem;
+    width: 206px;
+    line-height: 25px;
+    opacity: 0.75;
+}
+
 .right-box {
     background-image: url('images/image-header-mobile.jpg');
     background-repeat: no-repeat;
