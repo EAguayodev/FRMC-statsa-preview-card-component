@@ -118,12 +118,6 @@ span {
     margin-top: 1rem;
 }
 
-h3 {
-    text-align: center;
-    margin-right: 90px;
-    margin-top: 2rem;
-}
-
 .stat-types {
     text-align: center;
     margin-right: 90px;
@@ -141,8 +135,8 @@ h3 {
     font-weight: 700;
     position: relative;
     text-align: center;
-    top: 2rem;
-    left: 4rem;
+    top: -2rem;
+    left: 2rem;
     font-size: 28px;
     width: 264px;
     line-height: 32px;
@@ -155,8 +149,8 @@ h3 {
     font-size: 15px;
     text-align: center;
     position: relative;
-    top: 0.5rem;
-    left: 6rem;
+    top: -3rem;
+    left: 4rem;
     width: 206px;
     line-height: 25px;
     opacity: 0.75;
@@ -179,10 +173,18 @@ h3 {
     }
 
 .stats h3{
+    text-align: center;
     position: relative;
     top: -2.5rem;
     left: -3rem;
 }
+
+    .stat-types p{
+        position: relative;
+        top: -7rem;
+        left: 1rem;
+        opacity: 0.75;
+    }
 }
 
 
