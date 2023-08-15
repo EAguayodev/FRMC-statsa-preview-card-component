@@ -136,7 +136,7 @@ span {
     line-height: 32px;
 }
 
-.left-box p:nth-child(1){
+.left-box, p:nth-child(1){
     color: var(--slightly-transparent-white-main-paragraph);
     font-family: 'Inter', sans-serif;
     font-weight: 400;
