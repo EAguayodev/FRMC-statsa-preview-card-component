@@ -161,8 +161,8 @@ span {
     font-size: 15px;
     text-align: center;
     position: relative;
-    top: -3rem;
-    left: 3rem;
+    top: -1rem;
+    left: 0;
     width: 206px;
     line-height: 25px;
     opacity: 0.75;
@@ -194,8 +194,8 @@ span {
     .stat-types {
         position: relative;
         text-align: center;
-        top: -7rem;
-        left: 1rem;
+        top: -5rem;
+        left: 0
         opacity: 0.75;
     }
 }
