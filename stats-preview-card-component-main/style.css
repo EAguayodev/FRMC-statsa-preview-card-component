@@ -131,7 +131,6 @@ span {
 .row {
     display: flex;
     justify-content: center;
-    align-items: baseline;
     flex-direction: column-reverse;
 }
 
@@ -146,7 +145,7 @@ span {
     font-weight: 700;
     position: relative;
     text-align: center;
-    top: 3rem;
+    top: 1.5rem;
     left: 2rem;
     font-size: 28px;
     width: 264px;
