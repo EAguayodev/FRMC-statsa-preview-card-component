@@ -61,7 +61,9 @@ p {
 .stat-types {
      color: var(--slightly-transparent-white-main-paragraph);
      font-family: 'Inter', sans-serif;
-     margin: 1rem 2rem 0 -0.3rem;
+     position: relative;
+     top: 7rem;
+     left: 3rem;
 }
 
 
