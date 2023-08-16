@@ -116,6 +116,8 @@ span {
 
 .stats {
     display: flex;
+    flex-direction: row;
+    justify-content: center;
     position: relative;
 }
 
