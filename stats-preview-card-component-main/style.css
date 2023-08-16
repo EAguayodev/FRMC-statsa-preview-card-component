@@ -162,7 +162,7 @@ span {
     text-align: center;
     position: relative;
     top: -3rem;
-    left: 7.5rem;
+    left: 3rem;
     width: 206px;
     line-height: 25px;
     opacity: 0.75;
@@ -195,7 +195,7 @@ span {
         position: relative;
         text-align: center;
         top: -7rem;
-        left: 1rem;
+        left: -4rem;
         opacity: 0.75;
     }
 }
