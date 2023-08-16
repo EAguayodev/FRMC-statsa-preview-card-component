@@ -181,6 +181,12 @@ span {
         align-items: center;
     }
 
+    .stats__row{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
 .stats h3{
     text-align: center;
     position: relative;
