@@ -188,14 +188,14 @@ span {
     text-align: center;
     position: relative;
     top: -2.5rem;
-    left: 2rem;
+    left: 0;
 }
 
     .stat-types {
         position: relative;
         text-align: center;
         top: -7rem;
-        left: -4rem;
+        left: 1rem;
         opacity: 0.75;
     }
 }
