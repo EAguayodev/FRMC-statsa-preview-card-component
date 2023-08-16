@@ -133,21 +133,20 @@ span {
     justify-content: center;
     align-items: baseline;
     flex-direction: column-reverse;
-    margin-top: 1rem;
 }
 
 .left-box {
     width: 400px;
     height: 470px;
     border-radius: 5px;
-    margin: -3.8rem 0 0 3rem;
+    margin: -3.8rem 0 0 0;
 }
 
 .left-box h1{
     font-weight: 700;
     position: relative;
     text-align: center;
-    top: -2rem;
+    top: 3rem;
     left: 2rem;
     font-size: 28px;
     width: 264px;
