@@ -187,15 +187,15 @@ span {
 .stats h3{
     text-align: center;
     position: relative;
-    top: -2.5rem;
+    top: 1rem;
     left: 0;
 }
 
     .stat-types {
         position: relative;
         text-align: center;
-        top: -5rem;
-        left: 0
+        top: 0.5rem
+        left: 0;
         opacity: 0.75;
     }
 }
