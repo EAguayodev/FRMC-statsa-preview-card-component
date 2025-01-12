@@ -22,17 +22,31 @@ body {
     background-color: var(--very-dark-blue-main-background);
 }
 
-h1 , h3{
+main{
+    margin: 10rem auto;
+}
+
+h1 , ul{
     color: var(--white-main-heading-stats);
 }
 
-h3 {
+ul{
+    display: flex;
+    gap: 50px;
+}
+
+ul li {
     font-family: 'Intel', sans-serif;
     font-size: 24px;
     font-weight: 700;
     position: relative;
     top: 7rem;
-    left: 3rem;
+    left: 3rem; list-style: none;
+}
+
+ul span{
+    color: var(--slightly-transparent-white-stat-headings);
+    font-size: 0.75rem;
 }
 
 h1 {
@@ -81,8 +95,7 @@ span {
 
 .row {
     display: flex;
-    justify-content: center;
-    margin: 6rem 0 0 0;
+    justify-content: center; 
 }
 
 .left-box {
@@ -118,11 +131,10 @@ span {
 }
 
 
-.stats {
+.stats li{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
-    position: relative;
 }
 
 
